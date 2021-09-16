@@ -4,5 +4,3 @@ The project is mean to demostate basic HTML skills. The site consists of a main 
 Project Link:
 https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes 
 
-Live Preview:
-https://bowhza.github.io/odin-recipes/ 
